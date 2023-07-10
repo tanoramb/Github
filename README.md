@@ -27,15 +27,16 @@ git push origin main
 1. Create token classic at [your settings](https://github.com/settings/apps)
 2. Grab and copy de Token
 3. Install [GCM - Github credential manager](https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md)
+   <br>
    Linux deb package (ubuntu):
    ```
    sudo dpkg -i <path-to-package>
    ```
-4. Run the following command:
+5. Run the following command:
    ```
    git config --global credential.helper store
    ```
-5. When doing `git push origin main` enter your credentials:
+6. When doing `git push origin main` enter your credentials:
    ```
    Username for 'https://github.com': username at github.com
    Password for 'https://tanoramb@github.com': [Paste the Token]
