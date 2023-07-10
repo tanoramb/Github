@@ -42,5 +42,6 @@ git push origin main
    Password for 'https://tanoramb@github.com': [Paste the Token]
    ```
 7. Your credentials now are stored in the system
+8. Repeat `git push origin main`, and credentials will be not required now on.
    
    
