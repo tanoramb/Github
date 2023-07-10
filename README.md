@@ -41,5 +41,6 @@ git push origin main
    Username for 'https://github.com': username at github.com
    Password for 'https://tanoramb@github.com': [Paste the Token]
    ```
+7. Your credentials now are stored in the system
    
    
